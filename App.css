@@ -1,0 +1,29 @@
+.section {
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.section h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-weight: 600;
+  border-radius: 30px;
+  cursor: pointer;
+  border: none;
+  margin: 0 10px;
+}
+
+.primary {
+  background-color: #ff5722;
+  color: white;
+}
+
+.secondary {
+  background-color: #333;
+  color: white;
+}
