@@ -1,0 +1,55 @@
+.hero {
+    padding: 100px 20px;
+    background: linear-gradient(135deg, #f0f0f0, #ffffff);
+    text-align: center;
+    border-bottom: 2px solid #eee;
+  }
+  
+  .intro-box {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .hello {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #0af;
+    color: white;
+    border-radius: 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .highlight {
+    color: #fdd835;
+  }
+  
+  .role {
+    margin: 10px 0 20px;
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
+  .buttons .btn {
+    margin: 8px;
+    padding: 10px 20px;
+    font-weight: 600;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .primary {
+    background-color: #ff5722;
+    color: white;
+  }
+  
+  .secondary {
+    background-color: #333;
+    color: white;
+  }
